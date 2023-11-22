@@ -1,7 +1,7 @@
 # Ski
 Data analysis for Skiers
 
-##Delevepod in PYTHON
+## Delevepod in PYTHON
 
 ### Dependencies
 + Mysql
