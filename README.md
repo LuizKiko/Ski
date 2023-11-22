@@ -1,5 +1,5 @@
 # Ski
-Data analysis for Skier
+Data analysis for Skiers
 
 ##Delevepod in PYTHON
 
