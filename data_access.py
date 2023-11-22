@@ -13,6 +13,6 @@ dbSki = mysql.connector.connect(
     )
 
 qSki = os.getenv('QSKI')
-dfSki = pd.read_sql_query(qSki, dbSki)
+dfSki = pd.read_csv(r"ski\resorts.csv")
 dfSnow = pd.read_csv(r"ski\snow.csv")
 dfCountryCode = pd.read_csv(r"ski\CountryCodes.csv")
